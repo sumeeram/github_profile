@@ -61,3 +61,5 @@ Cross-platform Node.js version manager. Rust core and CLI, plus desktop and web 
 TypeScript · JavaScript · Rust · React · Next.js · Redux Toolkit · RTK Query · Tailwind CSS · Node.js · Tauri · WebSockets · RxJS · PostgreSQL · Docker
 
 Open to full-time roles, freelance work, and collaborations. The fastest way to reach me is [email](mailto:sumeeramadushanka104@gmail.com) or the [portfolio contact page](https://www.sumeeramadushanka.online/contact).
+
+<!-- profile -->
