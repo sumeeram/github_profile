@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Sumeera+Madushanka;Software+Engineer+%7C+React+%26+TypeScript;Real-time+dashboards+%C2%B7+enterprise+platforms+%C2%B7+desktop+apps" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Sumeera+Madushanka;Software+Engineer+%7C+React+%26+TypeScript;Real-time+UIs+%C2%B7+enterprise+apps+%C2%B7+desktop" alt="Sumeera Madushanka — Software Engineer" style="max-width:100%; height:auto;" />
 
   <br />
 
