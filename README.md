@@ -1,65 +1,188 @@
-# Sumeera Madushanka
+<div align="center">
 
-Software Engineer at Syntax Genie (Pvt) Ltd · Homagama, Sri Lanka
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Sumeera+Madushanka;Software+Engineer+%7C+React+%26+TypeScript;Real-time+dashboards+%C2%B7+enterprise+platforms+%C2%B7+desktop+apps" alt="Typing headline" />
 
-I build software for energy, logistics, and live operations: real-time dashboards, enterprise web platforms, and offline-first desktop apps. The day-to-day stack is React, TypeScript, and Rust, with an emphasis on clear architecture and interfaces that stay fast when the data is live.
+  <br />
 
-[Portfolio](https://www.sumeeramadushanka.online) · [CV](https://www.sumeeramadushanka.online/cv/Sumeera-Madushanka-CV.pdf) · [LinkedIn](https://www.linkedin.com/in/sumeeram) · [Email](mailto:sumeeramadushanka104@gmail.com)
+  **Software Engineer at Syntax Genie (Pvt) Ltd · Homagama, Sri Lanka**
 
-## Focus
+  Building production software for energy, logistics, and live operations —
+  clean architecture, fast interfaces, systems that stay reliable when the data is live.
 
-- **Real-time dashboards.** Control-room views that stream telemetry over WebSockets, surface alerts as they happen, and stay responsive with thousands of data points.
-- **Enterprise web platforms.** Role-based applications with multi-step workflows, schema-validated forms, and a structured, cached API layer.
-- **Offline-first desktop apps.** Cross-platform software with native persistence and an audit trail that keeps working without a network.
+  <p>
+    <a href="https://www.sumeeramadushanka.online"><img src="https://img.shields.io/badge/Portfolio-sumeeramadushanka.online-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.sumeeramadushanka.online/cv/Sumeera-Madushanka-CV.pdf"><img src="https://img.shields.io/badge/CV-Download-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" /></a>
+    <a href="https://www.linkedin.com/in/sumeeram"><img src="https://img.shields.io/badge/LinkedIn-sumeeram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:sumeeramadushanka104@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=sumeeram&style=for-the-badge&color=58A6FF" alt="Profile views" />
+  </p>
 
-## Experience
+</div>
 
-Syntax Genie (Pvt) Ltd, Homagama. Same product team since July 2022.
+---
 
-**Software Engineer** · June 2024 – present
-Leading frontend development for enterprise applications: UI architecture, reusable components, and workflows built to stay maintainable in production.
+## About
 
-**Associate Software Engineer** · February 2023 – June 2024
-Application features, third-party payment integrations, and REST APIs inside Agile sprints.
+I'm a frontend-focused software engineer with **4+ years** at Syntax Genie, shipping control-room UIs, enterprise platforms, and offline-first desktop apps. Most of the work lives where data meets people — energy grids, warehouses, live events, and operations teams.
 
-**Trainee Software Engineer** · July 2022 – February 2023
-Development, testing, and debugging of web application features.
+| | |
+|:---|:---|
+| **Role** | Software Engineer |
+| **Company** | Syntax Genie (Pvt) Ltd |
+| **Focus** | React · TypeScript · Next.js · Rust / Tauri |
+| **Open to** | Full-time · freelance · collaborations |
+| **Languages** | Sinhala (native) · English (professional) |
+| **Location** | Sri Lanka |
 
-## Selected work
+---
 
-Case studies live on the portfolio. Several of these products are private client work.
+## What I build
 
-**[Oversight EMS](https://www.sumeeramadushanka.online/projects/oversight-ems)** · Syntax Genie · 2024
-Energy intelligence platform that turns high-frequency grid and asset telemetry into a live control-room view. National Winner and Western Province Winner, SLASSCOM Ingenuity Awards 2024, Best Tech for Good Software Innovation.
-React · TypeScript · Redux Toolkit · RTK Query
+| Domain | What it looks like in practice |
+|:---|:---|
+| **Real-time dashboards** | WebSocket / Socket.IO control rooms, alert surfaces, charts that stay responsive with thousands of points |
+| **Enterprise platforms** | RBAC, multi-step Zod-validated forms, RTK Query caching, workflow-heavy business apps |
+| **Offline-first desktop** | Tauri + Rust + SQLite products with audit trails that keep working without a network |
+| **Product UI systems** | Accessible, themeable component systems in Next.js, Tailwind, and shadcn/ui |
 
-**[Unilever Fleet Flow](https://www.sumeeramadushanka.online/projects/unilever-fleet-flow)** · Syntax Genie · 2026
-On-premise platform that turns QR camera scans into a live view of every truck at a warehouse's loading bays: dwell time, lost time, shift KPIs, supervisor tracking, and a 3D digital twin.
-Next.js · React · TypeScript · NestJS
+---
 
-**[Yogeshwari](https://www.sumeeramadushanka.online/projects/yogeshwari-event-platform)** · Team · 2025
-Ticketing platform for large concerts: customer web client, admin dashboard, and a mobile QR check-in app. I was the frontend engineer.
-React · TypeScript · Flutter · Redux Toolkit
+## Tech stack
 
-**[SkyLeger](https://www.sumeeramadushanka.online/projects/skyleger)** · Solo · 2026
-Offline-first desktop app for drone lifecycle tracking, maintenance logs, and an immutable ownership audit trail.
-Tauri · Rust · React · TypeScript
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,redux,tailwind,nodejs,express,nestjs,rust,tauri,postgres,firebase,docker,git,figma,vite,githubactions&perline=9" alt="Skill icons" />
+
+</div>
+
+<br />
+
+**Daily drivers:** React / Next.js · TypeScript · Tailwind CSS · Redux Toolkit / RTK Query · REST APIs · Git  
+**Also shipping with:** Rust · Tauri · NestJS · Socket.IO · PostgreSQL / MySQL · Prisma · Docker · CI/CD
+
+---
+
+## GitHub analytics
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumeeram&theme=github_dark" alt="Profile details" width="100%" />
+
+  <br /><br />
+
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sumeeram&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=58A6FF&icon_color=58A6FF" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sumeeram&layout=compact&hide_border=true&theme=tokyonight&title_color=58A6FF&langs_count=8" height="165" alt="Top languages" />
+
+  <br /><br />
+
+  <img src="https://streak-stats.demolab.com?user=sumeeram&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="Contribution streak" width="100%" />
+
+  <br /><br />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumeeram&theme=github_dark" height="180" alt="Commit stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumeeram&theme=github_dark&utcOffset=5.5" height="180" alt="Productive time (Asia/Colombo)" />
+
+  <br /><br />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumeeram&theme=github_dark" height="180" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumeeram&theme=github_dark" height="180" alt="Most commit language" />
+
+</div>
+
+### Public language mix
+
+From non-fork public repositories (byte share):
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'pie1': '#3178C6', 'pie2': '#DEA584', 'pie3': '#563D7C', 'pie4': '#3572A5', 'pie5': '#89e051'}}}%%
+pie showData
+  title Public repo languages
+  "TypeScript" : 68
+  "Rust" : 25
+  "CSS" : 4
+  "Python" : 1
+  "Other" : 2
+```
+
+---
+
+## Featured work
+
+Case studies live on the [portfolio](https://www.sumeeramadushanka.online/projects). Most company systems are private client deployments.
+
+| Project | Role | Stack | Notes |
+|:---|:---|:---|:---|
+| **[Oversight EMS](https://www.sumeeramadushanka.online/projects/oversight-ems)** | Frontend · control room | React · TS · RTK Query · WebSockets | SLASSCOM Ingenuity Awards 2024 — National + Western Province Winner |
+| **[Unilever Fleet Flow](https://www.sumeeramadushanka.online/projects/unilever-fleet-flow)** | Full-stack | Next.js · NestJS · Prisma · Socket.IO · R3F | Live loading-bay board, QR scans, 3D twin, on-prem Windows deploy |
+| **[Thermal Transformer Diagnostics](https://www.sumeeramadushanka.online/projects/thermal-transformer-diagnostics)** | Frontend | React · Konva · RTK Query · Zod | Thermal annotation + DGA inspection workflows for HV transformers |
+| **[Yogeshwari](https://www.sumeeramadushanka.online/projects/yogeshwari-event-platform)** | Frontend | React · Flutter · RTK Query | Concert ticketing: web client, admin, mobile QR check-in |
+| **[SkyLeger](https://www.sumeeramadushanka.online/projects/skyleger)** | Solo | Tauri · Rust · React · SQLite | Offline-first drone lifecycle + immutable ownership audit trail |
+| **Remote Monitoring Platform** | Frontend | React · RTK Query · GIS | Multi-vendor solar fleet + smart-grid dashboard |
+| **Energy & Solar Sizing** | Frontend | React · RTK Query | Tariff modelling and solar / demand-control wizard |
+| **[Portfolio](https://www.sumeeramadushanka.online)** | Solo | Next.js 16 · Tailwind v4 | Case studies, contact pipeline, private analytics admin |
+
+---
 
 ## Public repositories
 
-**[Diamond TP](https://github.com/sumeeram/profit-view)**
-Paper trading desk for TradingView-style signals. Bracket entries, a built-in tape that runs with no broker, and a webhook that accepts the same JSON an alert would send. Next.js, TypeScript, and Pine Script.
+| Repo | What it is |
+|:---|:---|
+| **[profit-view](https://github.com/sumeeram/profit-view)** · Diamond TP | Paper trading desk for TradingView-style signals — brackets, built-in tape, webhook alerts |
+| **[vidora](https://github.com/sumeeram/vidora)** · [site](https://vidora-ebon.vercel.app) | Local-first YouTube downloader for Windows — Tauri 2, React, bundled yt-dlp + ffmpeg |
+| **[node-manager](https://github.com/sumeeram/node-manager)** | Cross-platform Node.js version manager — Rust core + CLI, desktop and web apps |
+| **[computer-networks](https://github.com/sumeeram/computer-networks)** · [site](https://computer-networks-rust.vercel.app) | Interactive bilingual ICT presentation on computer networks |
 
-**[Vidora](https://github.com/sumeeram/vidora)** · [site](https://vidora-ebon.vercel.app)
-Local-first YouTube downloader for Windows. Tauri 2 and React, with yt-dlp and ffmpeg bundled, and Windows installers built in GitHub Actions.
+---
 
-**[node-manager](https://github.com/sumeeram/node-manager)**
-Cross-platform Node.js version manager. Rust core and CLI, plus desktop and web apps.
+## Experience
 
-## Stack
+```mermaid
+timeline
+    title Syntax Genie (Pvt) Ltd · Homagama
+    July 2022 – Feb 2023 : Trainee Software Engineer
+                         : Frontend features, testing, Agile delivery
+    Feb 2023 – June 2024 : Associate Software Engineer
+                         : Product features, PayHere, REST APIs
+    June 2024 – Present  : Software Engineer
+                         : Frontend architecture, mentoring, code review
+```
 
-TypeScript · JavaScript · Rust · React · Next.js · Redux Toolkit · RTK Query · Tailwind CSS · Node.js · Tauri · WebSockets · RxJS · PostgreSQL · Docker
+**Software Engineer** · June 2024 – present  
+Lead frontend development for enterprise apps: UI architecture, reusable components, real-time dashboards, performance work, code review, and mentoring.
 
-Open to full-time roles, freelance work, and collaborations. The fastest way to reach me is [email](mailto:sumeeramadushanka104@gmail.com) or the [portfolio contact page](https://www.sumeeramadushanka.online/contact).
+**Associate Software Engineer** · February 2023 – June 2024  
+Core product features, PayHere payment integration, REST APIs, and Agile sprint delivery.
 
-<!-- profile -->
+**Trainee Software Engineer** · July 2022 – February 2023  
+Feature work, testing, debugging, and professional engineering workflows.
+
+---
+
+## Snapshot
+
+| Metric | Value |
+|:---|:---|
+| Years shipping software | 4+ |
+| Portfolio projects documented | 8 across 5 domains |
+| Roles at Syntax Genie | 3 (trainee → engineer) |
+| SLASSCOM team awards (2024) | 2× |
+| Public language focus | ~68% TypeScript · ~25% Rust |
+
+---
+
+## Connect
+
+<div align="center">
+
+  Open to full-time roles, freelance work, and interesting collaborations.
+
+  <p>
+    <a href="https://www.sumeeramadushanka.online/contact"><img src="https://img.shields.io/badge/Start_a_conversation-Portfolio_contact-58A6FF?style=for-the-badge" alt="Contact" /></a>
+    <a href="mailto:sumeeramadushanka104@gmail.com"><img src="https://img.shields.io/badge/sumeeramadushanka104@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/sumeeram"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/sumeeram"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+
+  <sub>Usually replies within 24 hours · +94 783626576 · Sri Lanka</sub>
+
+</div>
