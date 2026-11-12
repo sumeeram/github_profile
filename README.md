@@ -14,8 +14,12 @@
     <a href="https://www.sumeeramadushanka.online/cv/Sumeera-Madushanka-CV.pdf"><img src="https://img.shields.io/badge/CV-Download-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" /></a>
     <a href="https://www.linkedin.com/in/sumeeram"><img src="https://img.shields.io/badge/LinkedIn-sumeeram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:sumeeramadushanka104@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://komarev.com/ghpvc/?username=sumeeram&style=for-the-badge&color=58A6FF" alt="Profile views" />
   </p>
+
+  <!-- View counter only — not a dashboard. Linked so a click returns to the profile instead of a blank image tab. -->
+  <a href="https://github.com/sumeeram" title="Profile view counter (not a separate page)">
+    <img src="https://komarev.com/ghpvc/?username=sumeeram&label=Profile%20views&style=flat-square&color=58A6FF" alt="Profile view counter" />
+  </a>
 
 </div>
 
